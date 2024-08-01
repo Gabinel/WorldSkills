@@ -1,0 +1,80 @@
+F Number: F00000    
+VERSION : HandlingTool         
+$VERSION: V9.3044        1/9/2020
+DATE:     25-JUL-24 10:30 
+DCS Version: V4.2.10
+
+--- Robot setup ------------------------
+                                  Status
+Number of groups: 1                 CHGD
+Scan time: 8 msec                    OK 
+---------- Group 1 ----------       
+Robot: M-10iA/7L                    CHGD
+Number of axes: 6                   CHGD
+J1: Servo card - Axis 1             CHGD
+J2: Servo card - Axis 2             CHGD
+J3: Servo card - Axis 3             CHGD
+J4: Servo card - Axis 4             CHGD
+J5: Servo card - Axis 5             CHGD
+J6: Servo card - Axis 6             CHGD
+
+
+--- Safe I/O device --------------------
+  1 Safe I/O process: I/O connect   OK 
+  2 SFDO Pulse check: ENABLE(PL e) CHGD
+ Configuration                    status
+   ---- Device 1 -------------
+  3 Type:E-stop board              OK 
+  4 Robot number: 1                 OK 
+  5 Input:  SPI[  1 -   8](PL e)    OK 
+  6 Output: SPO[  1 -   8](PL e)    OK 
+   ---- Device 2 -------------
+  7 Type:No device                 OK 
+  8 Robot number: 0                 OK 
+  9 Input:  SPI[  0 -   0](PL e)    OK 
+ 10 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 3 -------------
+ 11 Type:No device                 OK 
+ 12 Robot number: 0                 OK 
+ 13 Input:  SPI[  0 -   0](PL e)    OK 
+ 14 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 4 -------------
+ 15 Type:No device                 OK 
+ 16 Robot number: 0                 OK 
+ 17 Input:  SPI[  0 -   0](PL e)    OK 
+ 18 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 5 -------------
+ 19 Type:No device                 OK 
+ 20 Robot number: 0                 OK 
+ 21 Input:  SPI[  0 -   0](PL e)    OK 
+ 22 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 6 -------------
+ 23 Type:No device                 OK 
+ 24 Robot number: 0                 OK 
+ 25 Input:  SPI[  0 -   0](PL e)    OK 
+ 26 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 7 -------------
+ 27 Type:No device                 OK 
+ 28 Robot number: 0                 OK 
+ 29 Input:  SPI[  0 -   0](PL e)    OK 
+ 30 Output: SPO[  0 -   0](PL e)    OK 
+   ---- Device 8 -------------
+ 31 Type:No device                 OK 
+ 32 Robot number: 0                 OK 
+ 33 Input:  SPI[  0 -   0](PL e)    OK 
+ 34 Output: SPO[  0 -   0](PL e)    OK 
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:         217409473            0
+  Time:25-JUL-24 10:30              None
+2 Base:          485536263            0
+  Time:25-JUL-24 10:30              None
+   Mastering:    336434605
+   Robot:       -311232397
+   Other:       -930978075
+3 Pos./Speed:  -1128030488            0
+  Time:25-JUL-24 10:30              None
+4 I/O connect: -1424621629            0
+  Time:25-JUL-24 10:30              None
+

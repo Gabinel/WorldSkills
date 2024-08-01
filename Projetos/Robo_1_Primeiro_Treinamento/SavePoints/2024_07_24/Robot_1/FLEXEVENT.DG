@@ -1,0 +1,32 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 06-JUN-24 12:37:20   41D Power Cycle 
+KEY   72 06-JUN-24 12:39:40  F55F /wizard/guided/steps Initial Setup
+KEY   72 06-JUN-24 12:39:44  FD0C /wizard/guided/steps Initial Setup
+EXIT  72 06-JUN-24 12:39:44  FD0C 64 1 
+POWR  72 14-JUN-24 09:43:14   41B Power Cycle 
+KEY   72 14-JUN-24 09:44:20  EB3A /wizard/guided/steps Initial Setup
+KEY   72 14-JUN-24 09:44:20  EDEA /wizard/guided/steps Initial Setup
+KEY   72 14-JUN-24 09:44:26   18A /wizard/guided/steps Initial Setup
+EXIT  72 14-JUN-24 09:44:26   18A 381 5 
+KEY   72 14-JUN-24 09:44:28   768 /wizard/guided/steps Initial Setup
+KEY   72 14-JUN-24 09:44:30   952 /wizard/guided/steps Initial Setup
+KEY   72 14-JUN-24 09:44:42  3338 /nav/core/wizardkeys/f2 CANCEL
+KEY   72 14-JUN-24 09:44:42  391A /nav/core/wizardkeys/f2 CANCEL
+EXIT  72 14-JUN-24 09:44:42  391A 71 1 
+POWR  72 25-JUN-24 09:44:56   41C Power Cycle 
+POWR  72 25-JUN-24 10:35:04   41D Power Cycle 
+KEY   72 25-JUN-24 10:40:00  286C /wizard/guided/steps Initial Setup
+KEY   72 25-JUN-24 10:40:14  5924 /wizard/guided/steps Initial Setup
+EXIT  72 25-JUN-24 10:40:14  5924 154 1 
+POWR  72 26-JUN-24 09:26:38   41D Power Cycle 
+HOME  72 26-JUN-24 10:22:18  7068 flexuif_home_c Hardkey 
+KEY   72 26-JUN-24 10:22:18  7167 /wizard/guided/steps Initial Setup
+KEY   72 26-JUN-24 10:22:18  71E8 /wizard/guided/steps Initial Setup
+KEY   72 26-JUN-24 10:22:30  9B70 /nav/core/home HOME
+EXIT  72 26-JUN-24 10:22:30  9B70 71 1 
+POWR  72 27-JUN-24 09:44:26   41D Power Cycle 
+POWR  72 22-JUL-24 11:39:40   41B Power Cycle 
+POWR  72 24-JUL-24 09:44:34   41D Power Cycle 
+POWR  72 24-JUL-24 10:32:08   41D Power Cycle 
+POWR  72 24-JUL-24 10:32:26   41B Power Cycle 
+POWR  72 24-JUL-24 12:22:50   41C Power Cycle 

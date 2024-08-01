@@ -1,0 +1,13 @@
+Security Log for F00000     at 25-JUL-24 10:31:14 
+
+25-JUL-24 10:30 SEC -001 Security Config Mismatch
+25-JUL-24 10:30 SEC -001 Security Config Mismatch
+25-JUL-24 10:31 SEC -005 FSAC RPC  allow connect 10.109.3.62
+
+
+MAIN Security Log Filter:
+25-JUL-24 10:31:04  Task: MCPR logged error: SEC -005 occurred 1 times in 2147483.750000 seconds from 10.109.3.62
+
+
+COMM Security Log Filter:
+25-JUL-24 10:31:04  Task: MCPR logged error: SEC -005 occurred 1 times in 2147483.750000 seconds from 10.109.3.62

@@ -1,0 +1,33 @@
+Security Log for F00000     at 22-JUL-24 12:23:26 
+
+06-JUN-24 12:37 SEC -001 Security Config Mismatch
+06-JUN-24 12:37 SEC -005 FSAC RPC  allow connect 10.109.3.132
+06-JUN-24 13:17 SEC -005 FSAC RPC  allow connect 10.109.3.132
+06-JUN-24 13:18 SEC -005 FSAC RPC  allow connect 10.109.3.132
+06-JUN-24 13:28 SEC -005 FSAC RPC  allow connect 10.109.3.132
+06-JUN-24 13:28 SEC -005 FSAC RPC  allow connect 10.109.3.132
+06-JUN-24 13:32 SEC -005 FSAC RPC  allow connect 10.109.3.132
+14-JUN-24 09:43 SEC -001 Security Config Mismatch
+14-JUN-24 09:45 SEC -005 FSAC RPC  allow connect 10.109.25.13
+14-JUN-24 09:45 SEC -005 FSAC RPC  allow connect 10.109.25.13
+14-JUN-24 11:20 SEC -005 FSAC RPC  allow connect 10.109.25.13
+25-JUN-24 09:44 SEC -001 Security Config Mismatch
+25-JUN-24 09:49 SEC -005 FSAC RPC  allow connect 10.109.3.21
+25-JUN-24 09:49 SEC -005 FSAC RPC  allow connect 10.109.3.21
+25-JUN-24 09:52 SEC -005 FSAC RPC  allow connect 10.109.3.21
+25-JUN-24 10:00 SEC -005 FSAC RPC  allow connect 10.109.3.21
+25-JUN-24 10:35 SEC -001 Security Config Mismatch
+25-JUN-24 12:04 SEC -005 FSAC RPC  allow connect 10.109.3.21
+25-JUN-24 12:04 SEC -005 FSAC RPC  allow connect 10.109.3.21
+25-JUN-24 12:05 SEC -005 FSAC RPC  allow connect 10.109.3.21
+26-JUN-24 09:26 SEC -001 Security Config Mismatch
+27-JUN-24 09:44 SEC -001 Security Config Mismatch
+22-JUL-24 11:39 SEC -001 Security Config Mismatch
+
+
+MAIN Security Log Filter:
+22-JUL-24 11:39:38  Task: NIYS logged error: SEC -001 occurred 1 times in 2147483.750000 seconds from 0.0.0.0
+
+
+COMM Security Log Filter:
+22-JUL-24 11:39:38  Task: NIYS logged error: SEC -001 occurred 1 times in 2147483.750000 seconds from 0.0.0.0

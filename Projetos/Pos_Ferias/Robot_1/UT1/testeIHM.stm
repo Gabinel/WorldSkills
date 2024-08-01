@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Language" content="pt-br"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title>IHM Teste</title>
+		
+		<style type="text/css">
+			
+			body {
+				margin: 0;
+				padding: 0;
+				background-color: #bf9062;
+			}
+			
+			p {
+				width: 100%;
+				height: 100%;				
+			}
+			
+			object {
+				margin-left: auto;
+				margin-right: auto;
+				background-color: #FFFFFF;
+			}
+			
+		</style>
+	</head>
+	
+	<body>
+		<p>
+			<object classid="clsid:2EA73C0F-6FB5-11D3-823F-0000E206D650" id="FRIPCommandButton1">
+				<param name="Caption" value="CONTAR"/>
+				<param name="FontSize" value="14"/>
+				<param name="width" value="300"/>
+				<param name="height" value="150"/>
+				<param name="DataType" value="2"/>
+				<param name="DataIndex" value="10"/>
+				<param name="SetValue" value="-1"/>
+				<param name="TrueFont" value="1"/>
+				<param name="FastLoad" value="1"/>
+			</object>
+			<br>
+			<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel1">
+				<param name="Caption" value=""/>
+				<param name="FontSize" value="14"/>
+				<param name="width" value="300"/>
+				<param name="height" value="150"/>
+				<param name="DataType" value="101"/>
+				<param name="DataIndex" value="1"/>
+				<param name="Interval" value="250"/>
+				<param name="TrueFont" value="1"/>
+				<param name="FastLoad" value="1"/>
+			</object>
+		</p>
+	</body>
+</html>
